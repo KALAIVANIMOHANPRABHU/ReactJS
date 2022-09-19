@@ -1,0 +1,71 @@
+.fruit
+{
+    background-color:rgb(236, 214, 90);
+    height:120vh;
+    width:70%;
+    margin:0px auto;
+}
+.fruit1
+{
+    background-color: white;
+    height:80vh;
+    width:50%;
+    border-radius:20px;
+    margin:0px auto;
+    position: absolute;
+    margin-top:100px ;
+    margin-left:150px;
+}
+.he
+{
+    text-align: center;
+    padding:20px;
+    font-size:xx-large;
+}
+.ige1
+{
+    height:300px;
+    width:300px;
+    
+
+}
+.div5
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+.ige2
+{
+    height:350px;
+    width:240px;
+    position: absolute;
+    padding-left:390px;
+   
+}
+.bt2
+{
+    margin-left:300px;
+    border-radius: 5px;
+    background-color: blue;
+    color:white;
+    border-color: blue;
+    height:30px;
+    position: absolute;
+    margin-bottom:200px;
+   
+    
+}
+.bt1
+{
+    margin-left: 70px;
+    border-radius: 5px;
+    background-color: blue;
+    color:white;
+    border-color: blue;
+    height:30px;
+}
+#id1
+{
+    color:rgb(236, 214, 90);
+}

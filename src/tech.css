@@ -1,0 +1,96 @@
+.tech
+{
+    height:130vh;
+    width:55%;
+    margin:0px auto;
+    background-color: aliceblue;
+}
+.h1
+{
+    text-align: center;
+    padding:20px;
+    margin-left: 20px;
+}
+.p1
+{
+    text-align:center;
+}
+.card1
+{
+    height:40vh;
+    width:45%;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 20px;
+    border-top: 5px solid red;
+
+}
+.card2
+{
+    
+    background-color: white;
+    height:40vh;
+    width:45%;
+    margin-left: 30px;
+    border-radius:10px;
+    border-top:5px solid skyblue;
+}
+.div3
+{
+    display:flex;
+    flex-direction: row;
+}   
+.card3
+{
+    background-color: white;
+    height:40vh;
+    width:43%;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left:30px;
+    border-top: 5px solid green;
+}
+.card4
+{
+    background-color: white;
+    height:40vh;
+    width:45%;
+    border-radius: 10px;
+    margin-left:30px;
+    border-top:5px solid orange;
+    margin-top:20px;
+}
+.im1
+{
+    height:70px;
+    width:50px;
+    padding-left:250px;
+    padding-top: 30px;
+    
+}
+.im2
+{
+    height:70px;
+    width:50px;
+    padding-left:250px;
+    padding-top:30px;
+}
+.im3
+{
+    height:70px;
+    width:50px;
+    padding-left:240px;
+    padding-top:30px;
+}
+.im4
+{
+    
+    height:80px;
+    width:80px;
+    padding-left:220px;
+    padding-top:30px;
+}
+
+
+
+

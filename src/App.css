@@ -1,0 +1,117 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ul{
+  list-style-type:none;
+  margin:20px;
+  padding:10px;
+  overflow:hidden;
+  background-color:pink;
+}
+li{
+  float:left;
+}
+ul li{
+  display:inline-block;
+  color:azure;
+  text-align: center;
+  padding:16px;
+  text-decoration: underline;
+}
+img{
+    height:200px;
+    width:200px;
+}
+.im
+{
+
+  background-image: url('C:\Users\91959\project\hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:150vh;
+}
+.d-flex
+{
+  display:flex;
+}
+.div1
+{
+  background-image:url('C:\Users\91959\project\src\congrats-card-bg.png');
+  height:80vh;
+  width:50%;
+  margin:0px auto;
+}
+.h3
+{
+  text-align: center;
+  padding:10px;
+  font-size:xx-large;
+}
+.card{
+  height:60vh;
+  width:50%;
+  background-color:aqua;
+  margin:0px auto;
+}
+.img
+{
+  height:100px;
+  width:100px;
+  margin-left: 100px;
+  padding:10px;
+}
+.h4
+{
+  text-align: center;
+  font-size:small;
+}
+.img1
+{
+  height:80px;
+  width:80px;
+  margin-left: 120px;
+}
+.h
+{
+  font-size: large;
+  text-align: center;
+}
+
+
+
+

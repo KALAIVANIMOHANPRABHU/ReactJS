@@ -1,0 +1,46 @@
+.div1
+{
+  background-image:url('C:\Users\91959\project\src\congrats-card-bg.png');
+  height:80vh;
+  width:50%;
+  margin:0px auto;
+}
+.h3
+{
+  text-align: center;
+  padding:10px;
+  font-size:xx-large;
+}
+.card{
+  height:60vh;
+  width:50%;
+  background-color:aqua;
+  margin:0px auto;
+}
+.img
+{
+  height:100px;
+  width:100px;
+  margin-left: 100px;
+  padding:10px;
+}
+.h4
+{
+  text-align: center;
+  font-size:small;
+}
+.img1
+{
+  height:80px;
+  width:80px;
+  margin-left: 120px;
+}
+.h
+{
+  font-size: large;
+  text-align: center;
+}
+
+
+
+

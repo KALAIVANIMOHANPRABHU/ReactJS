@@ -1,0 +1,15 @@
+.hook
+{
+    height:30vh;
+    width:30%;
+    margin:0px auto;
+    background-color:rgb(3, 3, 31);
+    text-align: center;
+    color:white;
+}
+.btn
+{
+    border-radius:5px;
+    height:30px;
+    width:50px;
+}
